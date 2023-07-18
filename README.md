@@ -1,3 +1,7 @@
 # scala-training
 
-Scala training
+## Quick Start
+
+```sh
+ > sbt test
+```
